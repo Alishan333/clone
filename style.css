@@ -96,11 +96,10 @@ h1 {
 .btn a{
     text-decoration: none;
     color: white;
-    color: #1b7f78;
 }
 .btn:hover{
     background-color: #1b7f78;
-    transition-duration: 0.9s;
+    transition-duration: 0.4s;
 }
 .section2 {
     margin-top: 30px;
@@ -228,9 +227,9 @@ h1 {
 
 }
 
-#card-img{
-    /* border: 2px solid red; */
-}
+/* #card-img{
+    border: 2px solid red;
+} */
 
 .img{
     /* border: 2px solid red; */
@@ -347,7 +346,7 @@ h1 {
 }
 
 .col-2 p{
-    font-size: 24px;
+    font-size: 21px;
     font-weight: 500;
 
     margin-top: 25px;
